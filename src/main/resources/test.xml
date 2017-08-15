@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:services
+        xmlns:ns0="http://webservice.web.api.budget.gome.com/">
+    <budgetBean>
+        <AUFNR>007000000049</AUFNR>
+        <DMBTR>100000000.00</DMBTR>
+        <JYID>579ab85e95b3409f98c19b346440f2</JYID>
+        <KTEXT>加息券：100000000</KTEXT>
+        <USER7>20170801</USER7>
+        <USER8>20170831</USER8>
+        <ZREMAK>各位领导好： 为达成2017年8月销售目标13.68亿元,金融业务计划推出“新手理财”、“邀请好友”、“加息券短信”、“虎妞群特权”等活动，以加息券为主要营销工具。 2017年8月份金融业务申请追加加息券10000万，用于理财红包派发，费用预算从交易佣金中冲减，此OA为加息券预算号申请。 一、计划达成目标： 1、新增用户5000人 2、销售额13.68亿 二、营销活动预算详情如下： 1、新手理财：新手享特权 专享188元大礼包； 2、邀请好友：被邀请人接受邀请，送188元理财券，被邀请人完成首笔投资邀</ZREMAK>
+        <ZSCALE>0.00</ZSCALE>
+        <ZYSLX>17</ZYSLX>
+    </budgetBean>
+</ns0:services>

@@ -1,0 +1,14 @@
+.settings/
+.classpath
+.project
+tmp/
+target/
+classes/
+logs/
+.idea/
+build/
+out/
+.svn/
+catalina*
+.DS_Store
+classes*
